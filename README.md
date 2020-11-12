@@ -5,7 +5,7 @@
 - git commit -m 'message here':   commit changes with meaningful message
 - git log:                        shows a list of commits and descriptions
 
-## to add a github repo
+## To add a github repo
 - create a new repo on github
 - want to add the remote to our project on computer (git remote add origin _ssh link here_)
 
