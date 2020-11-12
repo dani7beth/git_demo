@@ -17,11 +17,13 @@
 - git add (files that you changed related to that chunk of work)
 - git commit - m 'message describes that chunk of work'
 - repeat for every problem
+
 ---
 
 -------------------------------- with github --------------------------------
 - git push origin master (when a couple of chunks are done, or when teammate needs changes)
 - git pull origin master (when grabbing changes)
+
 ---
 
 
