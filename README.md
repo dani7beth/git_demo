@@ -3,6 +3,7 @@
 - git status:                     show current status of repo
 - git add:                        add files to to be commited 
 - git commit -m 'message here':   commit changes with meaningful message
+- git log:                        shows a list of commits and descriptions
 
 # Basic workflow
 
